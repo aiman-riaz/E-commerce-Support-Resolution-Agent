@@ -1,0 +1,68 @@
+SOURCE: Amazon India Non-Returnable Items and Return Policy Types
+URL: https://www.amazon.in/gp/help/customer/display.html?nodeId=202111910
+Date Accessed: March 27, 2026
+
+AMAZON.IN NON-RETURNABLE ITEMS AND EXCEPTIONS POLICY
+
+SECTION 1: NON-RETURNABLE CATEGORIES
+
+Products marked as "non-returnable" on the product detail page cannot be returned. The following categories are generally non-returnable once opened or delivered:
+
+Consumable and perishable items:
+- Wax candles
+- Pet food and grooming products
+- Cleaning products
+- Fertilizers
+- Food and grocery items
+- Any consumable items opened or partially used
+
+Personal hygiene and intimate items:
+- Personal hygiene products once opened
+- Innerwear and lingerie
+- Swimwear with hygiene liner removed
+- Items where hygiene seal is broken
+
+Digital and software products:
+- Digital downloads once accessed
+- Software once the product key has been revealed or redeemed
+- Gift cards once purchased (cannot be cancelled or returned due to regulatory restrictions)
+
+SECTION 2: EXCEPTIONS FOR NON-RETURNABLE ITEMS
+
+Even for items marked as non-returnable, Amazon will provide a full refund or replacement in the following exceptional cases:
+- The item arrives physically damaged
+- The item is defective and does not function as described
+- The item is materially different from the product description (wrong item, completely different product)
+- Parts or accessories are missing
+
+For these exceptional cases, you can contact Amazon within 5 days from the delivery of the non-returnable product.
+
+SECTION 3: FINAL SALE AND CLEARANCE ITEMS
+
+Items sold on clearance or at heavily discounted prices may have restricted return windows. The specific return policy for these items is displayed on the product detail page before purchase. Customers are responsible for reviewing the return policy shown on the product listing page prior to purchasing.
+
+SECTION 4: OPENED ITEMS POLICY
+
+For most product categories, items that have been opened are still eligible for return within the return window, provided the item is returned with all original packaging, tags, accessories, warranty card, and user manual. However, for hygiene and personal care products, once the seal is broken, the item is non-returnable unless defective.
+
+SECTION 5: ELECTRONICS RETURN POLICY
+
+For electronics, the return window and conditions are specified on the product detail page. Common electronics return policies include:
+- 10-day return window for smartphones and tablets
+- 10-day return window for laptops and computers
+- 10-day return window for televisions
+- Items must be returned with all accessories, original packaging, and warranty card
+
+For Dead on Arrival (DOA) electronics, Amazon will facilitate a replacement or refund regardless of whether the item was opened, provided the issue is reported promptly.
+
+SECTION 6: LARGE APPLIANCE POLICY
+
+For large appliances (air conditioners, refrigerators, washing machines, microwaves), if you report an issue, Amazon may schedule a technician visit to your location. The resolution is based on the technician's evaluation report. Amazon Home Services Terms and Conditions apply.
+
+SECTION 7: INSPECTION SERVICE AND OTP VERIFICATION
+
+If Inspection Service is provided for your product and you share an OTP after verifying that the product is not wrong, damaged, or missing accessories, you will not be able to return the product claiming that the product is wrong, damaged, or missing accessories after the fact.
+
+SECTION 8: CHANGE OF MIND RETURNS
+
+You may also return products in some categories if there is a change of mind and you do not wish to keep the item, within the applicable return window shown on the product listing. Change of mind returns are subject to the return policy type of the specific product category. Not all categories allow change of mind returns — refer to the product listing for the specific return policy type before purchase.

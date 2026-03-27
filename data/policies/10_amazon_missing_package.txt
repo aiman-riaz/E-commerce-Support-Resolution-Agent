@@ -1,0 +1,67 @@
+SOURCE: Amazon India Missing Package Policy
+URL: https://www.amazon.in/gp/help/customer/display.html?nodeId=GCU8BWGTQNJKQEBS
+Date Accessed: March 27, 2026
+
+AMAZON.IN MISSING PACKAGE AND LOST DELIVERY POLICY
+
+SECTION 1: PACKAGE SHOWS AS DELIVERED BUT NOT RECEIVED
+
+If your order shows as delivered but you haven't received the package, Amazon recommends the following steps before reporting:
+
+- Check if your family members, neighbours, or building reception might have collected the package on your behalf
+- Check the Message Centre on Amazon to see if the package was accepted by someone else
+- Note that sometimes delivery agents accidentally scan the package as delivered while it is still in transit — wait 24 hours before reporting
+
+SECTION 2: REPORTING A MISSING DELIVERED PACKAGE
+
+To report a package that shows as delivered but has not been received:
+1. Go to Your Account and select Contact Us
+2. Choose the Chat with Us option
+3. Select the item that is marked as delivered
+
+To help Amazon take timely action, please report the issue within 7 days from the date of delivery. Queries submitted after 7 days are not eligible for rescue.
+
+Pay on Delivery orders are not eligible for the rescue process — please place a new order if a Pay on Delivery package goes missing.
+
+SECTION 3: INVESTIGATION PROCESS
+
+Amazon will investigate reports of missing packages. The investigation includes reviewing tracking information, delivery confirmation data, and courier partner records. Amazon typically resolves missing package cases within a few business days.
+
+SECTION 4: UNDELIVERABLE PACKAGES
+
+Packages may be returned to Amazon as undeliverable for various reasons including:
+- No recipient was available to accept the delivery even after multiple attempts
+- Incorrect address or pincode mismatch
+- Recipient refused delivery
+- Address label became unreadable during shipping
+- Package was damaged in transit
+- Local or regional contingencies prevented delivery
+- Severe weather conditions affected delivery
+- No safe location available to leave the package
+- Security or mailroom personnel refused to accept the package
+
+All undeliverable packages are returned to the Amazon fulfillment centre within 13 days. Amazon cannot reship orders that have been returned as undeliverable. Once Amazon receives the undeliverable package, the order will be cancelled and a refund will be processed to the original payment method.
+
+SECTION 5: REFUND FOR UNDELIVERABLE PACKAGES
+
+For undeliverable packages returned to Amazon, a refund will be processed to the original payment method. The refund timeline depends on the payment method used. Amazon Pay balance refunds are processed within 2 hours. Credit and debit card refunds typically take 3-5 business days.
+
+SECTION 6: MULTIPLE DELIVERY ATTEMPTS
+
+If delivery is attempted once and fails, Amazon will attempt delivery again on the following day. If no recipient is available during the chosen delivery slot, the delivery agent will try up to 3 rescheduled attempts after calling and confirming with you. After 3 failed delivery attempts, the package may be returned as undeliverable.
+
+SECTION 7: MISSING ITEM FROM PACKAGE
+
+If an item is missing from your delivered package, it may have shipped separately. Check Your Orders first to see if the item has a separate tracking number.
+
+If you receive your shipping package and a part of an item such as accessories or chargers is missing from the product packaging, you can initiate a return by visiting the Online Returns Centre and returning the item.
+
+If your order consisted of multiple items and only some were delivered, the other items may have been dispatched in another shipment and will arrive separately by the date shown in Your Orders.
+
+SECTION 8: THIRD-PARTY SELLER MISSING PACKAGES
+
+If your order was sold and shipped by a third-party seller, please contact the seller first through the Amazon messaging system regarding undelivered packages. If the seller fails to address your query within 3 business days, you can file an A-to-Z Guarantee claim for non-delivery.
+
+SECTION 9: TRACKING ISSUES
+
+If tracking information has not updated for an extended period, allow 1 additional day for packages shipped by Amazon and 5 additional days for packages shipped by third-party couriers before taking action. If tracking shows "Problem occurred" or "Returning to Seller", contact Amazon customer support.

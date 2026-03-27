@@ -1,0 +1,70 @@
+SOURCE: Amazon India Payment, Pricing and Security Policy
+URL: https://www.amazon.in/gp/help/customer/display.html?nodeId=TIqtYJYSsh1rJm8RIu
+Date Accessed: March 27, 2026
+
+AMAZON.IN PAYMENT, PRICING AND SECURITY POLICY
+
+SECTION 1: ACCEPTED PAYMENT METHODS
+
+Amazon.in accepts the following payment methods:
+- Credit Cards (Visa, Mastercard, American Express, Diners Club)
+- Debit Cards
+- Net Banking
+- UPI (Unified Payments Interface)
+- Amazon Pay Balance
+- Amazon Pay Later
+- Easy Monthly Installments (EMI) — available on select credit cards and through Amazon Pay Later
+- Pay on Delivery (cash or UPI at doorstep, available for eligible orders and locations)
+- Gift Cards
+
+For more information on accepted payment methods, see the Accepted Payment Methods help page.
+
+SECTION 2: PAY ON DELIVERY
+
+Pay on Delivery is available for eligible orders and locations. With Pay on Delivery, you pay with cash or UPI when your order is delivered. If a Pay on Delivery package shows as delivered but you have not received it, the rescue process does not apply — please place a new order.
+
+For Pay on Delivery refunds, Amazon will process the refund either to your bank account via NEFT or as Amazon Pay balance based on your preference.
+
+SECTION 3: UPI PAYMENT ISSUES
+
+UPI transactions are usually completed instantly. However, a UPI transaction may fail due to:
+- Incorrect UPI ID — check that the UPI ID entered is correct, in the format xyz@abc
+- Technical failures due to timeouts or server issues — you will be redirected to the Retry Payments page
+- Bank server issues
+
+SECTION 4: PAYMENT FAILURE REASONS
+
+Your payment may fail for the following reasons:
+- Your issuing bank may have special policies regarding electronic or internet purchases
+- Your bank may be going through an outage
+- You may be using a card not currently accepted on Amazon.in
+
+If necessary, please contact your bank for further information. For more information on payment failures, check the Payment Issues help page.
+
+SECTION 5: UNAUTHORISED TRANSACTIONS
+
+To report any unauthorised transaction, call Amazon India customer service on 1800 120 01637. If the issue is a failed or pending transaction, check the Payment Issues page or try revising your payment.
+
+If you notice unauthorised orders on your account, contact Amazon immediately. Amazon will place a temporary hold on the account to prevent further unauthorised activity while the investigation is ongoing. Amazon will review login records and device data associated with the order.
+
+SECTION 6: AMAZON PAY LATER
+
+Amazon Pay Later is a buy now pay later service. If you have not paid any instalment for a returned product, Amazon will credit your Amazon Pay Later limit with the total order value on return. If you have already made a payment, Amazon will credit the amount back to your bank account and reinstate your credit limit.
+
+SECTION 7: EMI REFUNDS
+
+If you have already paid an EMI for a returned or cancelled product, the amount paid as EMI will be refunded to your credit card and the loan will be cancelled. Your card issuing bank may charge nominal pre-closure charges. For Bajaj Finserv BFL Card, contact Bajaj Finserv for details about EMI closure.
+
+SECTION 8: SUSPICIOUS ACCOUNT ACTIVITY
+
+If you notice suspicious activity in your account, including orders you did not place, immediate steps to take:
+1. Change your Amazon password immediately
+2. Review Your Orders for any unauthorised purchases
+3. Contact Amazon customer service at 1800 120 01637
+4. Check your linked payment methods for any unknown charges
+
+Amazon will never contact customers via unsolicited phone calls, text messages, or emails asking for passwords, credit card numbers, or one-time verification codes. If you receive such communication claiming to be from Amazon, it is a phishing attempt.
+
+SECTION 9: PRICING POLICY
+
+All prices on Amazon.in are in Indian Rupees (INR). Prices are subject to change without notice. The price at the time of order placement is the binding price for that order. If a price increases after an order is placed but before it ships, the customer will not be charged the higher price. Taxes are calculated based on the customer's shipping address and applicable tax rates.

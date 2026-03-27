@@ -1,0 +1,57 @@
+SOURCE: Amazon India Seller Fulfilled Orders Policy
+URL: https://www.amazon.in/gp/help/customer/display.html?nodeId=GXFKEVKQF2NBAJ44
+Date Accessed: March 27, 2026
+
+AMAZON.IN SELLER FULFILLED ORDERS POLICY
+
+SECTION 1: IDENTIFYING SELLER FULFILLED ORDERS
+
+Products fulfilled by third-party (Marketplace) sellers have the message "Sold and Shipped by [seller name]" on the product detail page. Items showing "Sold By - Seller Name" or "Shipped By - Seller Name" are seller fulfilled orders.
+
+For orders fulfilled by Amazon on behalf of a seller (Fulfilled by Amazon), the product is stored at an Amazon warehouse and Amazon handles packing and shipping, but the seller is still the seller of record.
+
+SECTION 2: RETURN POLICY FOR SELLER FULFILLED ORDERS
+
+Return policies that are exclusively Seller Fulfilled may vary from seller to seller. For return policies applicable to seller fulfilled orders, refer to the return policy section on the product detail page. The seller's return policy is displayed on the product listing page and at checkout.
+
+Most items purchased from sellers listed on Amazon are returnable within the return window, except those that are explicitly identified as not returnable. A product is returnable within the applicable return window if you have received it in a condition that is physically damaged, has missing parts or accessories, is defective, or is different from its description on the product detail page.
+
+SECTION 3: CONTACTING A SELLER
+
+To contact a seller about an order:
+1. Go to Your Orders
+2. Select the relevant order
+3. Select Contact Seller or Ask a Product Question
+
+Sellers are required to respond within 3 business days. If a seller fails to address your query in three business days, you can file an A-to-Z Guarantee claim.
+
+SECTION 4: REFUND PROCESS FOR SELLER FULFILLED ORDERS
+
+Any refund for orders sold and shipped by seller partners needs to be initiated by the seller directly. Amazon can assist in facilitating refunds only when the seller notifies Amazon of the receipt of the item. The terms and conditions of refunds may vary from seller to seller and are available on the Seller details page. You can access it by selecting the seller name on the product page.
+
+SECTION 5: A-TO-Z GUARANTEE FOR SELLER FULFILLED ORDERS
+
+All seller fulfilled orders are covered by Amazon's A-to-Z Guarantee. If a seller fails to address your query in three business days, or refuses a valid resolution, you may escalate to Amazon's A-to-Z Guarantee. Amazon will mediate between the customer and the seller and may issue a refund funded by Amazon if the seller is found to be at fault.
+
+SECTION 6: SELLER CANCELLATIONS
+
+For orders shipped directly by the seller, you can cancel from Your Orders within 30 minutes by selecting View order details and then selecting Cancel Item. After 30 minutes, and up until the time the order ships, you can request a cancellation from the seller. Your order will be cancelled by the seller and refund will be processed to your original payment method by the seller.
+
+SECTION 7: SELLER PERFORMANCE AND ACCOUNTABILITY
+
+Amazon holds marketplace sellers accountable through seller performance metrics including order defect rate, cancellation rate, and late shipment rate. Sellers with consistently poor performance may be suspended or removed from the Amazon marketplace. Customers can view a seller's rating and reviews on the seller's profile page.
+
+SECTION 8: PROHIBITED SELLER BEHAVIORS
+
+Marketplace sellers are prohibited from:
+- Listing counterfeit or replica products
+- Misrepresenting item condition (selling used items as new)
+- Setting return policies that violate Amazon's minimum standards
+- Contacting customers outside the Amazon messaging system
+- Requesting customers to leave positive reviews in exchange for refunds or discounts
+
+If a customer suspects a seller is engaging in prohibited behavior, they should report the seller via the Report this seller link on the seller's listing or profile page.
+
+SECTION 9: PAYMENT FOR MARKETPLACE ORDERS
+
+Customers pay Amazon directly for all marketplace orders. Amazon holds the payment and releases it to the seller after successful delivery and no active disputes. This ensures the customer has recourse if the item is not delivered or not as described.
