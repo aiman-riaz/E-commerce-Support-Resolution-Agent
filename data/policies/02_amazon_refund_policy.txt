@@ -1,0 +1,64 @@
+SOURCE: Amazon India Refund Policy
+URL: https://www.amazon.in/gp/help/customer/display.html?nodeId=202111770
+Date Accessed: March 27, 2026
+
+AMAZON.IN REFUND POLICY
+
+SECTION 1: HOW REFUNDS ARE ISSUED
+
+Once Amazon receives your return or the seller notifies Amazon of receipt of return, a refund is issued to the original payment method (in case of pre-paid transactions) or to your bank account or as Amazon Pay balance (in case of Pay on Delivery orders).
+
+For Pay on Delivery orders, refunds will be processed either to your bank account via National Electronic Funds Transfer (NEFT) or to your Amazon account as Amazon Pay balance. If you wish to receive the Pay on Delivery order's refund to your bank account, you can update the details of the bank account from the Returns Centre when you are returning an item.
+
+Note: Refunds cannot be processed to third-party accounts. The name on your Amazon account should match with the name of the bank account holder.
+
+SECTION 2: REFUND TIMELINES BY PAYMENT METHOD
+
+A refund will be initiated for your returned or cancelled orders once the returned package is received by Amazon. Refund requests are processed by Amazon within 13 days of successful pickup.
+
+Payment method and refund timelines after Amazon initiates refund:
+- Credit Card: 3-5 business days
+- Debit Card: 3-5 business days
+- Net Banking: 3-5 business days
+- UPI: 2-4 hours to 2 business days
+- Amazon Pay Balance: 2 hours
+- Pay on Delivery (NEFT to bank): 3-5 business days
+- EMI / Amazon Pay Later: varies by provider
+
+If the refund processing time has expired and you have still not received the refund, please contact your credit or debit card issuer or your bank for more information.
+
+SECTION 3: RETURN SHIPPING COST REFUNDS
+
+For Fulfilled by Amazon and Prime Eligible items, return shipping costs of up to Rs. 100 will be refunded. The cost of gift-wrapping will also be refunded, if any. All such refunds will be issued to your Amazon Pay Balance.
+
+If you incur return shipping charges over Rs. 100 for returning large and heavy items, you can contact Amazon for an additional refund. For refund of such additional charges, proof of payment like a courier receipt needs to be submitted.
+
+If you're returning a Seller-Fulfilled item, you can request the seller to reimburse the return shipping charges you incurred. The seller will not refund the shipping cost incurred in case of remorse returns.
+
+SECTION 4: IN ANY CASE WHERE A REFUND IS REQUIRED
+
+In any case where a refund is required, the seller(s) need to authorise that refund. Amazon.in can assist in facilitating refunds for you only when the seller notifies Amazon of the receipt of the item. Once the seller notifies Amazon of the receipt of the return item, the refund time period will apply for processing refunds.
+
+SECTION 5: EMI AND BUY NOW PAY LATER REFUNDS
+
+If you have not paid any installment for the returned product, then on returning, Amazon will credit your Amazon Pay Later limit with the total order value.
+
+If you've already made a payment, Amazon will credit the amount back to your bank account, along with reinstating your credit limit.
+
+If you've already paid an EMI, the amount paid as EMI will be refunded to your credit card and the loan will be cancelled. Your card issuing bank may charge nominal pre-closure charges in case you've already paid an EMI.
+
+For Bajaj Finserv (BFL Card): Contact Bajaj Finserv for details about EMI closure.
+
+SECTION 6: AMAZON PAY BALANCE REFUNDS
+
+Amazon Pay balance is a sum of all balances associated with Amazon Gift Cards in your Amazon.in account. Amazon Gift Cards are issued by Pine Labs Private Limited under the brand name of Qwikcilver and are subject to the Amazon Gift Card Terms and Conditions.
+
+SECTION 7: CHECKING REFUND STATUS
+
+To check the status of your refund, go to Your Orders, click on the relevant order and select View Return/Refund Status. If the refund processing time is up to 5 working days, you must wait until the end of the 5th working day for a refund update. Working days exclude bank holidays.
+
+If you haven't received your refund within the time frames mentioned above, please reach out to your bank with RRN (Refund Reference Number) displayed in the Refunds section in the Transactions history.
+
+SECTION 8: SELLER FULFILLED ORDER REFUNDS
+
+Any refund for orders sold and shipped by seller partners needs to be initiated by the seller directly. The terms and conditions of refunds may vary from seller to seller and are available on the Seller details page. All seller fulfilled orders are covered by Amazon's A-to-Z Guarantee. Amazon's A-to-Z Guarantee offers reimbursement and protection for instances when a seller is unable to resolve a missing or incorrect order.

@@ -1,0 +1,54 @@
+SOURCE: Amazon India Cancellation Policy
+URL: https://www.amazon.in/gp/help/customer/display.html?nodeId=GSL37WQTJZUYA9QE
+Date Accessed: March 27, 2026
+
+AMAZON.IN ORDER CANCELLATION POLICY
+
+SECTION 1: HOW TO CANCEL AN ORDER
+
+You can cancel items or orders that haven't entered the shipping process yet. To cancel an order, go to Your Orders, select the item you want to cancel, and select Cancel Item or Cancel Order. Follow the on-screen instructions to complete the cancellation.
+
+SECTION 2: CANCELLATION WINDOW FOR AMAZON FULFILLED ORDERS
+
+For orders fulfilled directly by Amazon, you can cancel before the order enters the shipping process. Once an order has shipped, it cannot be cancelled — you must wait for delivery and then initiate a return.
+
+SECTION 3: CANCELLATION WINDOW FOR SELLER FULFILLED ORDERS
+
+For orders shipped directly by the seller, you can cancel from Your Orders within 30 minutes by selecting View order details and then selecting Cancel Item. After 30 minutes, and up until the time the order ships, you can request a cancellation from the seller. Your order will be cancelled by the seller and refund will be processed to your original payment method by the seller, if the payment was already made.
+
+SECTION 4: COMBINED ORDER CANCELLATIONS
+
+If your order is combined with other active orders from your account and is shipped as a single shipment (common tracking number), then cancelling one order or item would result in cancellation of all the other orders or items combined in the shipment. If you have cancelled an order partially, the refund of the partially cancelled order will be issued once the other items in the order have been fulfilled.
+
+SECTION 5: REFUND FOR CANCELLED ORDERS
+
+For your cancelled orders, Amazon will refund the amount (if the payment is already made) to the original payment method. To know about the refund timelines, refer to Amazon.in Refund Policy. For Pay on Delivery orders that are cancelled before delivery, no charge is incurred.
+
+SECTION 6: GIFT CARD CANCELLATION
+
+Gift cards once purchased cannot be cancelled or returned due to regulatory restrictions. Please refer to the Amazon Pay Gift Card page to know more about adding gift card balance to your account, redeeming a Gift card and restrictions.
+
+SECTION 7: SUBSCRIPTION CANCELLATIONS
+
+For Subscribe and Save subscriptions, you can manage or cancel your subscription from the Manage Your Subscribe and Save page in your account. Cancellations made before the next scheduled delivery date will prevent the next shipment. Amazon reserves the right to cancel a subscription if the product becomes permanently unavailable.
+
+SECTION 8: UNDELIVERABLE PACKAGES
+
+Occasionally, packages are returned to Amazon as undeliverable. All undeliverable packages are returned to the fulfillment center within 13 days. Amazon cannot ship the orders again that have been returned. Once Amazon receives the package, your order will be cancelled and refund will be processed to the original payment method. The refund timeline will depend upon the payment mode chosen.
+
+Amazon's courier partners cannot retrieve and deliver an undeliverable package, even if it is at a local courier station. You may cancel the order and place a new order if you still need the product.
+
+If the product was sold and shipped by a third-party seller, please contact the seller for undelivered packages.
+
+SECTION 9: REASONS FOR UNDELIVERABLE ORDERS
+
+Orders may be marked as undeliverable for several reasons including:
+- No recipient was available to accept the delivery, even after multiple attempts
+- The address was incorrect or the pincode and area mentioned in the address do not match
+- Recipient refused delivery
+- The address label became unreadable during shipping
+- The package was damaged in transit
+- Local and regional contingencies prevented delivery
+- Severe weather conditions affected the delivery
+- There was no safe location to deliver the package
+- The security or mailroom personnel did not accept the package
