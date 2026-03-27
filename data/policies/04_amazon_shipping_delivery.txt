@@ -1,0 +1,66 @@
+SOURCE: Amazon India Shipping and Delivery Policy
+URL: https://www.amazon.in/gp/help/customer/display.html?nodeId=G200534000
+Date Accessed: March 27, 2026
+
+AMAZON.IN SHIPPING AND DELIVERY POLICY
+
+SECTION 1: DELIVERY SPEEDS AND GUARANTEED DELIVERY
+
+Amazon offers several delivery speed options including Standard Delivery, Two-Day Delivery, One-Day Delivery, Same-Day Delivery, and Morning Delivery depending on the item and delivery location.
+
+Guaranteed Morning, Same-Day, One-Day, and Two-Day Delivery is available for certain Prime Eligible items, to eligible cities across India. To get Guaranteed Delivery, you must place orders within the timeline shown on the product detail page. The date is subject to change before you place your order. Your order confirmation email shows your confirmed delivery date.
+
+Amazon automatically refunds delivery charges if you don't get your Morning, Same-Day, One-Day, or Two-Day Delivery by the promised date. Refunds go to your Amazon Pay balance. If you choose Pay on Delivery (POD), you first pay the full order cost, then you get a delivery refund.
+
+SECTION 2: TRACKING YOUR ORDER
+
+Once an order ships, you receive a shipment confirmation with tracking details. To track a package, go to Your Orders and select Track Package. The status of the order will have the details of the courier partner.
+
+If the estimated delivery date for your package has passed and your tracking information hasn't changed, allow 1 additional day for packages shipped by Amazon and 5 additional days for packages shipped by third-party couriers to be delivered. Usually packages arrive on or shortly after the estimated delivery date.
+
+Items shipped by sellers from the Amazon Marketplace can also be tracked, but only if the seller has shared this information with Amazon and you have chosen a traceable shipping method.
+
+SECTION 3: DELAYED DELIVERIES
+
+Amazon typically notifies customers if any delays in delivery occur. To handle a delayed delivery:
+- Track your package and confirm the estimated delivery date in Your Orders
+- Confirm your shipping address in Your Orders
+- Wait for 48 hours to allow for any unexpected delays
+- If delivery was attempted once and failed to deliver, Amazon will attempt delivery again on the following day
+
+If your order tracking says "Problem occurred", "Returning to Seller" or "Undeliverable", check your address and pincode. You must always enter a complete address with building name or number, street number, area or locality, nearest landmark, city or town or village, and the correct pincode.
+
+SECTION 4: MISSING PACKAGE SHOWING AS DELIVERED
+
+If your order shows as delivered but you haven't received the package, Amazon recommends using the self-serve option in your account to submit a query.
+
+To help Amazon take timely action, please report the issue within 7 days from the date of delivery. Queries submitted after 7 days are not eligible for rescue. Pay on Delivery orders are not eligible for rescue — please place a new order in that case.
+
+Before reporting, check the following:
+- Your family members, neighbours, or reception might have collected the package on your behalf
+- Sometimes delivery agents accidentally scan the package as delivered while it is still in transit
+
+To report a package that shows as delivered but has not been received:
+1. Go to Your Account and select Contact Us
+2. Choose the Chat with Us option
+3. Select the item that is marked as delivered
+
+SECTION 5: RESCHEDULING DELIVERY
+
+If you'd like to receive the package at a later date, you can request to reschedule your delivery. Amazon cannot expedite or reschedule to a day before the estimated delivery date.
+
+SECTION 6: MULTIPLE SHIPMENTS
+
+Sometimes an order is split into multiple shipments. This means you won't get all items in one go. The packages would be delivered according to the dates mentioned on your Orders page. If an order includes multiple items, each item may have separate delivery dates and tracking information.
+
+SECTION 7: COURIER PARTNERS
+
+Amazon uses multiple courier partners for delivery. You can identify the courier that is delivering your package by going to Your Orders. If your order was sold and shipped by a third-party seller, you may contact the Courier Partner for more information about the location of your package.
+
+SECTION 8: ADDRESS REQUIREMENTS
+
+To avoid delivery problems, keep your address information up-to-date and add delivery instructions. A complete address must include building name or number, street number, area or locality, nearest landmark, city or town or village, and the correct pincode.
+
+SECTION 9: LATE DELIVERY REFUND FOR GUARANTEED DELIVERY
+
+Amazon automatically refunds delivery charges if you don't get your Guaranteed Delivery (Morning, Same-Day, One-Day, or Two-Day) by the promised date. Refunds are credited to your Amazon Pay balance automatically — no claim required.

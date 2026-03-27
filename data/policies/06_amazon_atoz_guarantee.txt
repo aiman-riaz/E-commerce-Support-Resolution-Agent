@@ -1,0 +1,62 @@
+SOURCE: Amazon India A-to-Z Guarantee Policy
+URL: https://www.amazon.in/gp/help/customer/display.html?nodeId=GQ37OGNLTAZ2GNZB
+Date Accessed: March 27, 2026
+
+AMAZON.IN A-TO-Z GUARANTEE POLICY
+
+SECTION 1: WHAT IS THE A-TO-Z GUARANTEE
+
+The A-to-Z Guarantee protects you when you buy items sold and fulfilled by a third-party seller. It covers both the timely delivery and the condition of your items. All seller fulfilled orders are covered by Amazon's A-to-Z Guarantee. Amazon's A-to-Z Guarantee offers reimbursement and protection for instances when a seller is unable to resolve a missing or incorrect order.
+
+SECTION 2: WHEN YOU CAN FILE AN A-TO-Z GUARANTEE CLAIM
+
+You can file an A-to-Z Guarantee claim if:
+- You did not receive your package and the seller has not resolved the issue within 3 business days
+- You received a damaged, defective, or materially different item and the seller has not resolved the issue
+- You returned an item but did not receive a refund from the seller
+- The seller agreed to a refund but has not processed it
+
+Before filing a claim, you must first contact the seller. If a seller fails to address your query in three business days, you can file an A-to-Z Guarantee claim.
+
+SECTION 3: HOW TO FILE AN A-TO-Z GUARANTEE CLAIM
+
+To request an A-to-Z Guarantee refund:
+1. Go to Your Orders
+2. Locate the order
+3. Select Return or Replace items or Return items option as applicable
+4. Select the reason from the drop-down list
+5. Select the refund option under How can we make it right
+6. Click Continue and follow the instructions
+
+SECTION 4: CLAIM RESOLUTION TIMELINE
+
+It can take Amazon up to one week to review A-to-Z Guarantee requests. Amazon will notify you about the decision using the email address related to your account. Claims are usually resolved within one week.
+
+SECTION 5: APPEALING A DENIED CLAIM
+
+If your refund request is denied, you can submit an appeal within 30 calendar days of the decision. To appeal, go to Your Orders, locate the order, and follow the appeal instructions.
+
+SECTION 6: WHAT THE A-TO-Z GUARANTEE COVERS
+
+The A-to-Z Guarantee covers:
+- Items that were not delivered within the maximum estimated delivery date
+- Items that arrived damaged, defective, or materially different from the product listing
+- Items returned to the seller but for which no refund was issued
+- Cases where the seller agreed to a refund but did not honour it
+
+SECTION 7: WHAT THE A-TO-Z GUARANTEE DOES NOT COVER
+
+The A-to-Z Guarantee does not cover:
+- Buyer's remorse (customer changed their mind)
+- Items received as described but customer does not like them
+- Disputes filed after 90 days from the estimated delivery date
+- Digital products such as software once the product key has been revealed or redeemed
+- Gift cards once purchased
+
+SECTION 8: SELLER ACCOUNTABILITY UNDER A-TO-Z
+
+Amazon holds marketplace sellers accountable under the A-to-Z Guarantee. If a seller is found to be at fault and refuses to cooperate, Amazon may issue a refund funded by Amazon and charge back the seller. Sellers with consistently poor performance on A-to-Z claims may be suspended or removed from the Amazon marketplace.
+
+SECTION 9: CHECKING A-TO-Z CLAIM STATUS
+
+You can view the status or cancel an A-to-Z Guarantee return request by going to Your Orders, locating your order, and selecting View Order Details. You will see the current status of the claim under the section Refund Request Status.
