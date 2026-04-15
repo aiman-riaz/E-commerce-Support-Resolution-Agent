@@ -1,7 +1,5 @@
 # E-commerce Support Resolution Agent
 
-**Assessment 2 — Purple Merit Technologies | AI/ML Engineer Intern**
-
 A multi-agent RAG system that resolves e-commerce customer support tickets using Amazon India policy documents. Built with LangChain, FAISS, and Groq.
 
 ---
